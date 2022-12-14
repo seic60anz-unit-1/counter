@@ -1,0 +1,19 @@
+body {
+  width: 320px;
+  min-height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  font-size: 36px;
+  color: #444;
+}
+
+button {
+  padding: 0.5em 1em;
+  font-size: inherit;
+  font-family: monospace;
+  color: inherit;
+}
