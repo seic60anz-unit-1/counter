@@ -4,7 +4,7 @@
 
 1. Fork this repo and `git clone` it down to your computer
 1. Open index.html in your browser
-1. When you're finished or when time is up, push your work to your remote repo, file a Pull Request, and react with a green check on Zoom
+1. When you're finished or when time is up, push your work to your remote repo, and file a Pull Request
 
 ---
 
